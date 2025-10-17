@@ -1,9 +1,9 @@
 {
-    "name": "pwa-todo",
-    "short_name": "pwa-todo",
+    "name": "PWA-TODO-JEPH-NCC",
+    "short_name": "PWA-TODO-JEPH-NCC",
     "icons": [
         {
-            "src": "icon-192.png",
+            "src": "/src/icons/icon-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         }
