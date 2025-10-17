@@ -1,16 +1,18 @@
 {
-    "name": "PWA-TODO-JEPH-NCC",
-    "short_name": "PWA-TODO-JEPH-NCC",
-    "icons": [
-        {
-            "src": "/src/icons/icon-192x192.png",
-            "sizes": "192x192",
-            "type": "image/png"
-        }
-
-    ],
-    "start_url": ".",
-    "display": "standalone",
-    "background_color": "#ffffff",
-    "description": "Una aplicación de lista de tareas simple y efectiva."
+  "name": "PWA-TODO-JEPH-NCC",
+  "short_name": "PWA-JEPH-NCC",
+  "description": "Una aplicación de lista de tareas simple y efectiva.",
+  "start_url": ".",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0078D7",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
 }
