@@ -2,6 +2,8 @@ import { useState, useEffect } from "react";
 import "./App.css";
 import withSplashScreen from "./components/splashComponents";
 
+
+//Funcionamiento de notificaciones
 function App() {
   const [task, setTask] = useState("");
   const [tasks, setTasks] = useState(() => {
